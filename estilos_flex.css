@@ -1,0 +1,31 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav div{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.logo {
+    width: 10px;
+    height: 40px;
+}
+
+body{
+    font-family: 'Dhurjati', sans-serif;
+}
